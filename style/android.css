@@ -200,7 +200,7 @@ aside{
 aside > ul{
      content: '✅';
     list-style-position: inside;
-    columns: 2;
+    columns: 1;
 }
 
 
